@@ -15,3 +15,4 @@ Step 7: Open Integrated terminal and install all installation needed, open your 
 
 ## Usage
 
+Walkthrough video link: 
